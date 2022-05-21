@@ -11,18 +11,12 @@
     width: 100%;
     min-height: 100px;
     padding: 0px 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     z-index: 100;
     
 }
 header {
-    position: absolute;
-    top: 0;
-    left: 0;
+    height: 50px;
     width: 100%;
-    padding: 0px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -56,6 +50,7 @@ a .githublogo{
 header ul {
     position: relative;
     display: flex;
+    justify-content: space-around;
     
 }
 header ul li {

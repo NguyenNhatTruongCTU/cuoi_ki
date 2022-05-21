@@ -9,7 +9,7 @@ var student = {
         "image": "images/khoa.jpg",
         "address": "Bến Tre",
         "phone": "0367 812 445",
-        "noidung": "Trang thành viên và kiểm tra tổng thể",
+        "noidung": "Trang thành viên và trang thực hiện",
         "donggop": 100
     },
     "student2": {
@@ -35,7 +35,7 @@ var student = {
         "image": "images/hy.jpg",
         "address": "An Giang",
         "phone": "0866 554 459",
-        "noidung": "Trang chủ và trang thực hiện",
+        "noidung": "Trang chủ và trang biểu đồ",
         "donggop": 100
     },
     "student4": {
@@ -48,7 +48,7 @@ var student = {
         "image": "images/bao.jpg",
         "address": "Vĩnh Long",
         "phone": "0939 824 721",
-        "noidung": "Trang cập nhật và biểu đồ",
+        "noidung": "Trang cập nhật",
         "donggop": 100
     },
     "student5": {
