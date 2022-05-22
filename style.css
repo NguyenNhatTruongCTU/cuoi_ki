@@ -61,7 +61,7 @@ header ul li a {
     display: inline-block;
     color: rgb(254, 254, 254);
     font-weight: 450;
-    font-size: large;
+    font-size: 15px;
     padding: 1rem 3.5rem;
     text-decoration: none;
     transition: all .3s ease-in-out;

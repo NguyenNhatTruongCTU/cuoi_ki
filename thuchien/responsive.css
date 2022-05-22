@@ -1,0 +1,278 @@
+@media screen and (min-width: 993px) and (max-width: 1267px) {
+  .logoWeb {
+    text-align: center;
+  }
+  .banner .banner__bg {
+    height: 100vh;
+  }
+  .procedure .iP {
+    display: none;
+  }
+  .procedure .procedure__bg {
+    padding: 50px 0px;
+  }
+  .procedure .diagram__contentLeft {
+    position: static;
+    width: 100%;
+    text-align: center;
+  }
+  .procedure .diagram__contentRight {
+    position: static;
+    width: 100%;
+    text-align: center;
+  }
+  .procedure .itemML {
+    margin: 0px;
+  }
+  .procedure .itemMR {
+    margin: 0px;
+  }
+  .procedure .content__diagram {
+    flex-direction: column;
+  }
+  .procedure .contentLeft__item,
+  .procedure .contentRight__item {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 0px 0px 10px 0px;
+    border-radius: 5px;
+    text-transform: uppercase;
+  }
+  .commitment__content {
+    padding: 50px 0px 0px 0px;
+  }
+}
+@media screen and (width : 1024px) {
+   .banner .banner__bg {
+    height: 80vh !important;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  .logoWeb {
+    text-align: center;
+  }
+  .banner .banner__bg {
+    height: 125vh;
+  }
+  .about {
+    padding: 25px 0px;
+  }
+  .about .video__imgThumbnail {
+    transform: scale(1.0);
+    margin: 80px 0px;
+    height: 300px;
+  }
+  .about .video__imgThumbnail:before {
+    width: 0%;
+  }
+  .content__title {
+    text-align: center;
+  }
+  .procedure .iP {
+    display: none;
+  }
+  .procedure .procedure__bg {
+    padding: 50px 0px;
+  }
+  .procedure .diagram__contentLeft {
+    position: static;
+    width: 100%;
+    text-align: center;
+  }
+  .procedure .diagram__contentRight {
+    position: static;
+    width: 100%;
+    text-align: center;
+  }
+  .procedure .itemML {
+    margin: 0px;
+  }
+  .procedure .itemMR {
+    margin: 0px;
+  }
+  .procedure .content__diagram {
+    flex-direction: column;
+  }
+  .procedure .contentLeft__item,
+  .procedure .contentRight__item {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 0px 0px 10px 0px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: left;
+  }
+}
+@media screen and (width: 768px) {
+  .banner .banner__bg {
+    height: 60vh !important;
+  }
+  .footerContent .footerContant__bg {
+    height: 350px !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  .logoWeb {
+    text-align: center;
+  }
+  .banner .banner__bg {
+    height: 150vh;
+  }
+  .about {
+    padding: 25px 0px;
+  }
+  .about .video__imgThumbnail {
+    transform: scale(0.8);
+  }
+  .about .video__imgThumbnail:before {
+    width: 0%;
+  }
+  .content__title {
+    text-align: center;
+  }
+  .whyChoose {
+    padding: 25px 0px 0px 0px;
+  }
+  .whyChoose .itemLeft::before,
+  .whyChoose .itemRight::before {
+    border: none;
+  }
+  .procedure .procedure__bg {
+    padding: 50px 0px;
+  }
+  .procedure .diagram__contentLeft {
+    position: static;
+    width: 48%;
+    text-align: center;
+  }
+  .procedure .diagram__contentRight {
+    position: static;
+    width: 48%;
+    text-align: center;
+  }
+  .procedure .itemML {
+    margin: 0px;
+  }
+  .procedure .itemMR {
+    margin: 0px;
+  }
+  .procedure .content__diagram {
+    flex-direction: row;
+  }
+  .procedure .contentLeft__item,
+  .procedure .contentRight__item {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 0px 0px 10px 0px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: left;
+  }
+  .commmitment {
+    padding: 0px 0px 25px 0px;
+  }
+  .commitment__content {
+    padding: 50px 0px 0px 0px;
+  }
+  .commmitment .commitment__boxImg {
+    text-align: center;
+  }
+  .commmitment .boxImg__img {
+    transform: scale(0.8);
+  }
+  .solutionPackage {
+    padding: 50px 0px;
+  }
+  .footerContent .pH {
+    height: 500px;
+  }
+  .footerContent .footerContent__infoCompany {
+    margin: 0px 0px 30px 0px;
+  }
+  .whyChoose__content {
+    justify-content: space-between;
+  }
+  .whyChoose .itemLeft,
+  .whyChoose .itemRight {
+    margin: 50px 0px;
+  }
+  .whyChoose .blockLeft,
+  .whyChoose .blockRight {
+    max-width: 45%;
+  }
+  .whyChoose .itemLeft,
+  .whyChoose .itemRight {
+    max-width: unset;
+    min-width: unset;
+  }
+}
+@media screen and (max-width: 640px) {
+  .banner .title__lg {
+    font-size: 2rem;
+  }
+  .banner .banner__bg {
+    height: 100vh;
+  }
+  .banner .title__xs {
+    padding: 0px 15px;
+  }
+  .banner .md__text::before,
+  .banner .md__text::after {
+    width: 0px;
+    height: 0px;
+  }
+  .about .video__imgThumbnail {
+    transform: scale(0.9);
+    height: 300px;
+  }
+  .about .btnClose {
+    right: 0px;
+    top: 35px;
+  }
+  .whyChoose__content {
+    flex-direction: column;
+  }
+  .whyChoose .blockLeft {
+    margin: 50px 0px 0px 0px;
+  }
+  .whyChoose .blockLeft,
+  .whyChoose .blockRight {
+    max-width: unset;
+  }
+  .whyChoose .itemLeft,
+  .whyChoose .itemRight {
+    margin: 0px 20px 50px 20px;
+    border-right: 4px dotted #ccc;
+    border-left: 4px dotted #ccc;
+  }
+  .whyChoose .item__text {
+    text-align: center;
+  }
+  .footerContent .footerContant__bg {
+    height: 500px;
+  }
+  .footerContent .footerContent__infoCompany {
+    margin: 0px 0px 30px 0px;
+  }
+  .contact .bg__blockContact {
+    padding: 50px 25px;
+  }
+   .procedure .diagram__contentLeft {
+    width: 100%;
+  }
+  .procedure .diagram__contentRight {
+    width: 100%;
+  }
+   .procedure .content__diagram {
+    flex-direction: column;
+  }
+}
+@media screen and (width: 568px) {
+  .banner .banner__bg {
+    height: 150vh;
+  }
+}
+@media screen and (max-width: 375px) {
+}
+@media screen and (max-width: 320px) {
+}
