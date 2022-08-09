@@ -1,6 +1,6 @@
 var student = {
     "student1": {
-        "hoten": "Harry Potter",
+        "hoten": "Eleven",
         "mssv": "B10000",
         "birth": "01/01/10001",
         "nganh": "Care of Magical Creatures",
@@ -59,7 +59,7 @@ var student = {
         "malop": "First",
         "email": "@gmail.com",
         "image": "images/khoa.jpg",
-        "address": "The Three Broomsticks",
+        "address": "Hawkins",
         "phone": "9 3/4",
         "noidung": "...",
         "donggop": 100
